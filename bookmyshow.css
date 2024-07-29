@@ -1,0 +1,79 @@
+.hedaer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+   
+}
+.search input{
+    height: 30px;
+    width: 500px;
+    position: relative;
+    right: 270px;
+    padding: 0px 30px;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    background-color: whitesmoke;
+}
+.search svg{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    z-index: 1;
+    right: 240px;
+    top:7px
+}
+.opt select{
+    border: none;
+    height: 30px;
+    width: 90px;
+    
+    
+}
+.opt button{
+    background-color: #f84464;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    height: 20px;
+    width: 70px;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.menu {
+display: flex;   
+justify-content: space-between; 
+padding: 0px 100px;
+background-color: hwb(0 91% 7%);
+}
+.menu li{
+    padding: 0px 10px;
+    list-style: none;
+}
+.t1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+}
+.tt2 {
+    color: red;
+    position: relative;
+    top: 20px;
+}
+.posters{
+    display: flex;
+    justify-content: space-around;
+padding: 0px 90px;
+}
+.posters img{
+    height: 400px;
+    border-radius: 10px;
+}
+.ed img{
+    padding: 70px 100px;
+    width: 1270px;
+}

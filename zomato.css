@@ -1,0 +1,140 @@
+.fpart{
+    background-image: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transform: scale(1.1)
+}
+.fpart{
+    height: 395px;
+    width: 1456px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 10px 176px;
+    padding-right: 251px;
+}
+.he2 {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.hee1,.hee2,.hee3,.hee4{
+    font-size: 21px;
+    margin: 10px;
+}
+.loc img{
+    height: 56px;
+    margin-top: 34px;
+
+}
+.loc{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+.ll{
+    display: flex;
+    padding-right: 66px;
+}
+.loc h2{
+    color: white;
+    font-size: 37px;
+    font-weight: 100;
+}
+.l2 input{
+    height: 45px;
+    width: 500px;
+    border-radius: 0px 10px 10px 0px;
+    border: none;
+}
+.l1 input{
+    height: 45px;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+    position: relative;
+    left: 38px;
+    z-index: 1;
+}
+.ll input::placeholder{
+padding: 30px;
+}
+/* .sc-rbbb40-0 iRDDBk{
+    position: relative;
+    left: 35px;
+    top: 4px;
+} */
+ #svg1{
+    position: relative;
+    left: 71px;
+    top: 4px;
+    z-index: 2;
+ }
+ .l1 svg{
+    position: relative;
+    right: -15px;
+    z-index: 2;
+}
+ .l2 svg{
+    position: relative;
+    right: -30px;
+    top: 4px;
+ }
+ .oo1{
+    width: 553px;
+    position: relative;
+    bottom: 32px;
+    
+    background: white;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 0px 0px 1.2rem 1.2rem;
+    box-sizing: border-box;
+ }
+ .o1 img{
+    height: 192px;
+    width: 552px;
+    object-fit: cover;
+    transform: none;
+    border-radius: 14px;
+ }
+ .oo2{
+    background-color: #e2d9d91f;
+    width: 308px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 9px;
+    font-size: 20px;
+    padding: 1.2rem 1.5rem;
+}
+ 
+ .o2 p{
+    font-size: 37px;
+ }
+ .online{
+    margin: 64px 192px 30px 222px;
+ }
+ .oo1 p{
+    font-size: 22px;
+    padding-left: 15px
+ }
+ .a1 img{
+    height: 462px;
+    width: 465px;
+ }
+ .app{
+display: flex;
+padding: 0px 326px;
+
+ }
+ .a2 img{
+    height: 50px;
+ }
+ .oo2 svg{
+    position: relative;
+    left: 174px;
+    top: -12px;
+}

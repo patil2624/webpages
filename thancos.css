@@ -1,0 +1,216 @@
+.hedare ls{
+    font-weight: bolder;
+    margin: 10px;
+    font-size: 30px;
+}
+body{
+    margin: 0px;
+}
+.hedare ls:hover{
+    color: orange;
+}
+.hedare {
+    text-align: center;
+    position: sticky;
+    top: 10px;
+    background-color: #22222237;
+}
+.thanco{
+   height: 700px;
+   color: white;
+    background-image: url(http://www.thancosnatural.com/wp-content/uploads/2017/12/Banner.jpg);
+    background-size: cover;  
+}
+.hedare select:hover{
+    color: orange;
+
+}
+.hedare select{   
+    background-color: inherit;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    border: none;
+
+}
+.hedare img{
+    height: 47px;
+}
+.text{
+    background-image: url(http://www.thancosnatural.com/wp-content/uploads/2017/12/Thancos-Web-bg.jpg) !important;
+    
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    line-height: 1.7em;
+    padding: 121px 274px;
+}
+.text1,.text2{
+    height: 478px;
+    width: 277px;
+    font-family:'Satisfy', cursive;
+    color: white
+}
+.text img{
+align-items: center;
+padding-left: 100px;
+}
+.t1 span{
+   padding-left: 100px;
+   color: brown;
+   font-style: italic;
+    font-weight: bolder
+}
+.it{
+    background-image: url(http://www.thancosnatural.com/wp-content/uploads/2017/12/Thancos-Web-Flav-bg.jpg);
+    height: 700px;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    padding: 106px 215px;
+}
+.i1,.i2,.i3{
+    height: 644px;
+    width: 296px;
+    color: white;
+    font-family: 'Satisfy', cursive;
+    padding-top: 120px !important;
+    padding-right: 10px !important;
+    padding-bottom: 150px !important;
+    padding-left: 10px !important;
+    background-repeat: round;
+    background-size: 321px 593px;
+    line-height: 1.7em;
+    
+}
+.emtpy{
+    height: 148px;
+}
+.it h2{
+    padding-left: 100px;
+}
+.i1{
+    background-image: url(http://www.thancosnatural.com/wp-content/uploads/2017/12/Flavours.png);
+    background-repeat: no-repeat;
+}
+.i2{
+    background-image: url(http://www.thancosnatural.com/wp-content/uploads/2017/12/Stores.png);
+    background-repeat: no-repeat;
+}
+.i3{
+     background-image: url(http://www.thancosnatural.com/wp-content/uploads/2017/12/Franchise.png); 
+     background-repeat: no-repeat;
+}
+.about{
+    background-image: url(http://www.thancosnatural.com/wp-content/uploads/2017/12/Thancos-Web-1.jpg) ;
+    height: 500px;
+    background-size: cover;
+color: white;
+font-style: italic;
+font-family:'Satisfy', cursive;
+padding: 0px 204px
+}
+.about input{
+    height: 50px;
+    width: 1077px;
+    background-color: inherit;
+    border-color: white;
+    color: white;
+    outline: none;
+    border: 2px solid white;
+}
+.a3 textarea{
+    height: 150px;
+    width: 1077px;
+    background-color: inherit;
+    border-color: white;
+    color: white;
+    outline: none;
+    border: 2px solid white;
+}
+.about button{
+    position: relative;
+    left: 959px;
+    background-color: inherit;
+    height: 47px;
+    width: 122px;
+    color: yellow;
+    bottom: 22px;
+    font-size: 20px;
+    outline: none;
+    border: 2px solid yellow;
+}
+
+.about input::placeholder{
+color: white;
+}
+
+.about textarea::placeholder{
+    color: white;
+    font-family:'Satisfy', cursive;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #222;
+    color: white;
+    height: 323px;
+    padding: 0px 282px;
+}
+.f1,.f2{
+    height: 126px;
+    width: 300px;
+    font-family:'Satisfy', cursive;
+    line-height: 1.7em;
+}
+/*  */
+.f1 span{
+    position: relative;
+    bottom: 47px;
+}
+.f1 h4{
+    color: green;
+    position: relative;
+    bottom: 34px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:#666666;
+}
+.footer img{
+height: 24px;
+width: 24px;
+background-color: burlywood;
+position: relative;
+    top: 19px;
+    right: 273px;
+}
+.ff1 h4{
+    padding-left: 298px;
+    font-size: larger;
+}
+.ff2 img{
+    background-color: burlywood;
+    position: relative;
+    right: 249px
+}
+.ff2{
+    display: flex;
+    justify-content: space-around;
+}
+.ii2 img{
+position: relative;
+right: 236px;
+
+}
+.ii3 img{
+    position: relative;
+    right: 222px;
+
+}
+.ii1 img{
+    background-color: burlywood;
+}

@@ -1,0 +1,194 @@
+.note{
+display: flex;
+/* justify-items: center; */
+justify-content: space-between;
+align-items: center;
+    padding: 0px 68px;
+}
+.n1 {
+    display: flex;
+    /* justify-content: space-around; */
+    
+}
+.n2{
+    display: flex;
+
+}
+.nn3 button{
+    background-color: #0b7bea;
+    border: none;
+    /* hight: 41px; */
+    font-size: 17px;
+    color: white;
+    padding: 6px 12px;
+}
+.nn2 button{
+   border: none;
+    padding: 0px 30px;
+    background-color: white;
+    text-decoration: underline;
+    font-size: 15px;
+    
+}
+
+.lines h3{
+    position: relative;
+    top: -15px;
+}
+.lines span{
+    position: relative;
+    top: -31px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+.hedar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 76px;
+    align-items: center;
+}
+.menu li{
+    display: inline;
+    justify-content: space-around;
+    padding: 0px 10px;
+}
+.menu img{
+    position: relative;
+    top: 11px;
+    left: 22px;
+    height: 24px;
+    width: 104px;
+    
+
+}
+
+.detal{
+    display: flex;
+    
+}
+.d1,.d2,.d3,.d4,.d5{
+    padding: 0px 10px;
+}
+.detal img{
+    
+    height: 24px;
+    width: 35px;
+    position: relative;
+    top: 8px;
+
+}
+.detal select{
+    border: none;
+    position: relative;
+    top: 10px;
+}
+
+.img1{
+display: flex;
+justify-content: space-around;
+
+}
+/* .pppp{
+    background-image:url(https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Pro-AI-11Ed-Sapphire-MC001-3000x1682:VP5-1920x600) ;
+    background-size: cover;
+    height: 459px;
+    width: 1519.200px
+} */
+ .post{
+background-color: white;
+position: relative;
+top: -392px;
+width: 548px;
+height: 262px;
+left: 78px;
+align-self: center;
+padding: 47px 0px 0px 54px;
+}
+.pppp2{
+    position: relative;
+    top: -365px;
+    left: 176px;
+}
+
+
+/* .post2{
+background-image: url(https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-AI-7Ed-Sapphire-MC001-3000x1682:VP5-1920x600);
+background-size: cover;
+height: 50px;
+background-color: brown;
+width: 1519.200px */
+/* } */
+
+.img1 button{
+    background-color: #FFCA28;
+    border: none;
+    height: 29px;
+    width: 54px;
+    font-weight: bold;
+}
+.img1 img{
+    height: 451px;
+    width: 1512px;
+}
+.b button{
+    
+    background-color: #0b7beacc;
+    color: white;
+    height: 34px;
+    width: 125px;
+    font-size: 16px;
+    border: none;
+}
+.menu1 img{
+    height: 52px;
+    width: 42px;
+    margin: 10px 10px;
+}
+.menu1 p{
+    color: #0b7bea;
+    text-decoration: underline;
+    position: relative;
+    top: -25px;
+    right: 8px;
+}
+.m1 img{
+    position: relative;
+    left: 50px;
+}
+.m4 img{
+    position: relative;
+    left: 30px;
+}
+.menu1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 402px;
+    align-items: center;
+    position: relative;
+    bottom: 205px;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: 200px;
+    padding: 0px 62px;
+   
+}
+.i1,.i2,.i3,.i4{
+    margin: 15px;
+    
+}
+.item img{
+    width: 321px
+}
+.item button{
+    color: white;
+    background-color: #4978cede;
+    border: none;
+    height: 33px;
+   
+}
+

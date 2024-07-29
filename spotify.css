@@ -1,0 +1,91 @@
+* svg{
+    fill: white;
+    height: 20px;
+    width: 20px;
+}
+
+.spotify{
+    background-color: black;
+    color: white;
+    display: flex;
+    
+}
+.mm2 img ,.mm3 img{
+
+    height: 32px;
+    width: 35px;
+    margin: 11px;
+}
+.mm1 img{
+    height: 42px;
+    width: 132px;
+    margin: 11px;
+}
+body{
+    background-color: black;
+}
+.menu{
+    background-color: #6f696975;
+    height: 900px;
+    width: 353px;
+
+}
+.playl{
+    display: flex;
+    justify-content: space-between;
+
+}
+.m2 svg{
+color: white;
+}
+#a img{
+    height: 92px;
+    width: 101px;
+}
+#a {
+    height: 150px;
+    width: 237px;
+   
+}
+
+/* #a1{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px; 
+    height: 1000px;
+    width: 1200px;
+} */
+.g{
+    display: grid;
+    grid-template-columns: 249px 251px 261px 250px;
+    height: 1000px;
+    width: 1200px;
+}
+
+.a1{
+    background-color: rgb(0, 100, 80);
+    border-radius: 10px;
+    height: 150px;
+    width: 250px;
+}
+.a2{
+    background-color: ;
+}
+.a3{
+    background-color: ;
+
+}
+.a4{
+    background-color: ;
+}
+.a5{
+    background-color: ;
+}
+.a6{
+    background-color: ;
+}
+.a7{
+    background-color: ;
+}
+.a8{
+    background-color: ;
+}
